@@ -1,0 +1,32 @@
+.DS_STORE
+.DS_Store
+
+# Go binaries
+/bin/
+/obj/
+
+# Dependency directories
+vendor/
+
+# Go modules
+go.sum
+go.mod
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+*.idea/
+*.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Test binary, coverage data, and other build artifacts
+*.test
+*.out
+*.cover
+*.prof
+
+# Configuration files
+*.env
